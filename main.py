@@ -10,6 +10,8 @@
 # 2) Вывести всех
 # 3) Поиск по фамилии
 
+
+
 from input_data import *
 flag = True
 while(flag):
